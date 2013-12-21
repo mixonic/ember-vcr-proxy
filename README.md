@@ -10,6 +10,9 @@ and as soon as a new value is set any invalid history is discarded.
 Usage
 ------------
 
+This project is published on bower. Either `bower install ember-vcr-proxy` or
+download the `main.js` file.
+
 ``` JavaScript
 App.IndexController = Ember.ObjectController.extend(VCRProxy, {
   actions: {
