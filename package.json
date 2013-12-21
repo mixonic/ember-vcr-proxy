@@ -1,0 +1,20 @@
+{
+  "name": "mb-vcr-proxy",
+  "version": "0.0.0",
+  "description": "Record changes to an ObjectProxy and allow them to be stepped through or jumped to.",
+  "main": "main.js",
+  "scripts": {
+    "test": "testem ci"
+  },
+  "author": "Matthew Beale",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-ember-templates": "~0.4.17",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-concat": "~0.3.0",
+    "testem": "~0.5.12",
+    "matchdep": "~0.3.0"
+  }
+}
+
