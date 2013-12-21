@@ -1,6 +1,6 @@
 {
-  "name": "mb-vcr-proxy",
-  "version": "0.0.0",
+  "name": "ember-vcr-proxy",
+  "version": "0.0.1",
   "main": "main.js",
   "authors": [
     "Matthew Beale"
